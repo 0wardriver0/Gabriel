@@ -12,7 +12,6 @@ Gabriel is a powerful tool designed to uncover hidden data within images using s
 
 Run
 
-1.
 ```
 python webserver.py # or python3
 ```
