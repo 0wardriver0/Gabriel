@@ -15,6 +15,8 @@ Run
 ```
 python -m venv venv
 
+source venev/bin/activate
+
 pip install -r requirements.txt
 
 python webserver.py # or python3
