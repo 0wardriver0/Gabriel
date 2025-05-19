@@ -13,6 +13,10 @@ Gabriel is a powerful tool designed to uncover hidden data within images using s
 Run
 
 ```
+python -m venv venv
+
+pip install -r requirements.txt
+
 python webserver.py # or python3
 ```
 2. Upload the folder of images then let it run
