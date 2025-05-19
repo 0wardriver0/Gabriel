@@ -11,4 +11,10 @@ Gabriel is a powerful tool designed to uncover hidden data within images using s
 - **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.
 
 Run
+
+1.
 ```
+python webserver.py # or python3
+```
+2. Upload the folder of images then let it run
+3. Export results
