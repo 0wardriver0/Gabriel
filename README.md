@@ -2,6 +2,8 @@
 
 Gabriel is a powerful tool designed to uncover hidden data within images using steganography techniques. This program allows users to detect and extract concealed information, making it an essential utility for digital forensics, data recovery, and privacy research.
 
+![stoXsimple Screenshot](https://github.com/0wardriver0/Gabriel/blob/main/gabriel.png)
+
 ## Features
 
 - **Image Analysis**: Analyze images to detect hidden data.
